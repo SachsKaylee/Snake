@@ -10,3 +10,4 @@ Have fun, do whatever you like with the code. :)
 ----
 
 Demo video: [https://www.youtube.com/watch?v=_u1RzpGnwck](https://www.youtube.com/watch?v=_u1RzpGnwck)
+Blog post: [https://7bitstudios.wordpress.com/2016/01/09/snake-sharpfs/](https://7bitstudios.wordpress.com/2016/01/09/snake-sharpfs/)

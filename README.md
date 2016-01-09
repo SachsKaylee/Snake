@@ -6,3 +6,5 @@ The code is very simple and self explanatory(every method is commented using XML
 If you want to quickly test the game using cheats, create a file called "cheat.txt" is your asset (or game data) folder and put in the amount of snake tails you want to start out with.
 
 Have fun, do whatever you like with the code. :)
+
+Demo video: [https://www.youtube.com/watch?v=_u1RzpGnwck](https://www.youtube.com/watch?v=_u1RzpGnwck)

@@ -8,6 +8,9 @@ using UnityEngine.SceneManagement;
 /// </summary>
 public class GameController : MonoBehaviour
 {
+	/// <summary>
+    ///     Is the game paused? The snake cannot be moved while the game is paused.
+    /// </summary>
     public static bool IsPaused { get; set; }
 
     private static Pickup _pickupPrefab;

@@ -7,4 +7,6 @@ If you want to quickly test the game using cheats, create a file called "cheat.t
 
 Have fun, do whatever you like with the code. :)
 
+----
+
 Demo video: [https://www.youtube.com/watch?v=_u1RzpGnwck](https://www.youtube.com/watch?v=_u1RzpGnwck)
